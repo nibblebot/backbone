@@ -6,7 +6,7 @@
   "author"        : "Jeremy Ashkenas <jeremy@documentcloud.org>",
   "contributors"  : [],
   "dependencies"  : {
-    "lodash"      : "~0.8.2"
+    "lodash"      : ">=0.8.2"
   },
   "lib"           : ".",
   "main"          : "backbone.js",
